@@ -1,3 +1,6 @@
+<!-- PHP Visitor Counter
+Author: Leon(Y.B Liang)
+bingsnote.info -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,9 +17,7 @@
 </head>
 <body>
 <footer><?php
-//PHP Visitor Counter
-//Author: Leon(Y.B Liang)
-//bingsnote.info
+
 echo "You are the  "; 
 require("count.php"); 
 echo "  visitors"; 
